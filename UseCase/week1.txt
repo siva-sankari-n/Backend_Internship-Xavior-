@@ -1,3 +1,18 @@
-1. return the python Range function till 50
+1. return the variable checking str format return True, int format return False and Float format will return None
+    data = ['1',2,3.0,4,'5',6]
 
+2. return python function as sum and multiply of the in two variables between numbers based on input?
 
+3. return the break, continue, pass statements in for loop?
+
+4. create a list of squares for even numbers from 0 to 9 in list comprehensions method.
+
+5. swapping keys and values in a dictionary 
+    swapping_dict= {'a': 1, 'b': 2, 'c': 3}
+
+6. return the variable must be given format
+    output : index 0 value 0, 10, 20
+     
+    a = [i for i in range(0,10)]
+    b = [i for i in range(10,20)]
+    c = [i for i in range(20,30)]
